@@ -169,7 +169,7 @@ with tab1:
           <h3 id="modalTitle" style="margin-top:0; border-bottom:2px solid #3498db;">実績の入力</h3>
           
           <label>対象会社 (任意)</label>
-          <input type="text" id="m-company" placeholder="例: 株式会社Gakken">
+          <input type="text" id="m-company" placeholder="例: 株式会社G">
           
           <label>区分</label>
           <select id="m-kbn"><option>定例</option><option>非定例</option></select>
